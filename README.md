@@ -6,8 +6,6 @@ No frameworks, no build step, runs entirely client-side.
 
 **[Live demo →](https://ghostern.com/gaming/fonts/dark-souls/)**
 
-![Screenshot of the tool](assets/screenshot.png)
-
 ## Why I built this
 
 Every "YOU DIED" generator I found online used the wrong font or added a
@@ -30,8 +28,8 @@ no WebGL, no dependencies, so it runs fast even on low-end devices.
 No build tools needed — just open `index.html` in a browser, or:
 
 \`\`\`bash
-git clone https://github.com/sharjeel2025/dark-souls-font-generator
-cd dark-souls-font-generator
+git clone https://github.com/sharjeel2025/ghostern-gaming-text-tools
+cd ghostern-gaming-text-tools
 python3 -m http.server 8000
 \`\`\`
 
